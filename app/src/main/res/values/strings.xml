@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wangame</string>
+    <string name="start_text">下のボタンをタップしてください</string>
+    <string name="ScoreTitle">Score</string>
+    <string name="Score1">0</string>
+    <string name="Score2">0</string>
+    <string name="Score3">0</string>
+    <string name="Score4"> </string>
+</resources>
